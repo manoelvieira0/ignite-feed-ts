@@ -2,4 +2,4 @@
 
 Desenvolvi um projeto Frontend de uma rede social utilizando React. Durante o programa Ignite da Rocketseat adquiri conceitos importantes como componentização, propriedades, imutabilidade, estados, hooks e uso do typescript na aplicação.
 
-![image](https://github.com/manoelvieira0/ignite-feed-ts/assets/76048368/6d9ff355-86ad-4d01-bf02-1f62a64870be)
+![Screenshot_1](https://github.com/manoelvieira0/ignite-feed-ts/assets/76048368/1e884851-dce6-4fc6-a2bb-5eb9140c4847)
